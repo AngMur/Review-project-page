@@ -90,6 +90,7 @@
      font-size: 15px;
      line-height: 24px;
 }
+
  a {
      color: #222222;
      text-decoration: none;
@@ -1161,7 +1162,7 @@
 }
  .box_bg {
      background: #c3c3c3;
-     padding: 40px 0px 40px 65px;
+     padding: 40px 50px 40px 65px;
      margin-right: 101px;
 }
  .box_bg_img {
@@ -1186,7 +1187,7 @@
      font-size: 17px;
      line-height: 30px;
      font-weight: 400;
-     text-align: right;
+     text-align: justify;
      color: #181716;
 }
  .box_text a {
